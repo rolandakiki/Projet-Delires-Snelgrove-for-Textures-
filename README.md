@@ -25,3 +25,13 @@ open a remote kernel with spyder, and run synthesize.py after modifying the desi
 Attempt | <img src='lego.gif'> | <img src='lego.gif'>| <img src='lego.gif'>
 --- | --- | --- | --- |
 Seconds |<img src='lego.gif'>|<img src='lego.gif'>|<img src='lego.gif'>
+
+<table>
+    <tr>
+        <td>
+        <img src="lego.gif"></img>
+        </td>
+        <td>
+        <img src="lego.gif"></img>
+        </td>
+    </tr>
