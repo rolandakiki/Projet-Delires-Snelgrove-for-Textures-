@@ -35,3 +35,11 @@ open a remote kernel with spyder, and run synthesize.py after modifying the desi
         <img src="fractalgreen.gif"></img>
         </td>
     </tr>
+</table>
+## The videos synthesized with interframe loss
+<table> 
+    <tr>
+        <td> <img src="marbre.gif"></img>   </td>
+        <td> <img src="rouille.gif"></img>   </td>
+    </tr>
+</table> 
