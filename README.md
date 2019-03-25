@@ -36,6 +36,7 @@ open a remote kernel with spyder, and run synthesize.py after modifying the desi
         </td>
     </tr>
 </table>
+
 ## The videos synthesized with interframe loss
 <table> 
     <tr>
