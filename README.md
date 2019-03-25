@@ -1,3 +1,5 @@
+<img src='lego.gif'>
+
 ## Projet DELIRES 
 ## Multi-scale neural texture synthesis
 This repo is a modification to Snelgrove's code for our project
