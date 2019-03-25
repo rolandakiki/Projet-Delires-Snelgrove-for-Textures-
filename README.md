@@ -1,5 +1,3 @@
-<img src='lego.gif'>
-
 ## Projet DELIRES 
 ## Multi-scale neural texture synthesis
 This repo is a modification to Snelgrove's code for our project
@@ -13,8 +11,6 @@ multiple image scales, not necessarily aligned with the receptive field of the
 layers of Gatys.
 
 More information at [the research page](http://wxs.ca/research/multiscale-neural-synthesis/).
-
-This code will hopefully, one day, improve. I've rushed it online pre-publication for a [workshop at InterAccess](http://interaccess.org/workshop/2017/jul/objective-functions-creating-images-neural-networks).
 ## Quickstart
 
 Install the pre-requisites
@@ -22,3 +18,10 @@ Install the pre-requisites
     pip3 install -r requirements.txt
 
 open a remote kernel with spyder, and run synthesize.py after modifying the desired parameters
+
+## The evolution of the texture imgs through iterations
+
+<img src='lego.gif'>
+Attempt | <img src='lego.gif'> | <img src='lego.gif'>| <img src='lego.gif'>
+--- | --- | --- | --- |
+Seconds |<img src='lego.gif'>|<img src='lego.gif'>|<img src='lego.gif'>
