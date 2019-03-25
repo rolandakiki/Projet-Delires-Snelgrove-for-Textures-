@@ -17,7 +17,9 @@ Install the pre-requisites
 
     pip3 install -r requirements.txt
 
-open a remote kernel with spyder, and run synthesize.py after modifying the desired parameters
+run synthesize.py on a remote server 
+     
+     python3 synthesize.py -s bark.jpg
 
 ## The evolution of the texture imgs through iterations
 <table>
