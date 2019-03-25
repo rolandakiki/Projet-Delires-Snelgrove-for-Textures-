@@ -20,18 +20,18 @@ Install the pre-requisites
 open a remote kernel with spyder, and run synthesize.py after modifying the desired parameters
 
 ## The evolution of the texture imgs through iterations
-
-<img src='lego.gif'>
-Attempt | <img src='lego.gif'> | <img src='lego.gif'>| <img src='lego.gif'>
---- | --- | --- | --- |
-Seconds |<img src='lego.gif'>|<img src='lego.gif'>|<img src='lego.gif'>
-
 <table>
     <tr>
         <td>
         <img src="lego.gif"></img>
         </td>
         <td>
-        <img src="lego.gif"></img>
+        <img src="fabric.gif"></img>
+        </td>
+        <td>
+        <img src="fractal2.gif"></img>
+        </td>
+        <td>
+        <img src="fractalgreen.gif"></img>
         </td>
     </tr>
